@@ -1,0 +1,19 @@
+feature,description
+artist,Artist name of the played song
+auth,"Authentification status among: Logged Out, Cancelled, Guest, Logged In"
+firstName,user first name
+gender,user gender
+itemInSession,"Indentifier of user actions history within a session: listen to song, upvote, down vote, ... "
+lastName,user last name
+length,Duration of visit of the page
+level,Level of subscription
+location,user location
+method,HTTP method
+page,Visited page
+registration,Timestamp of user registration
+sessionId,Session id
+song,song title
+status,HTTPS request status
+ts,Timestamp of page visit
+userAgent,Identifier of web browser client sending the request
+userId,"User identifier, howeever it is not unique"
